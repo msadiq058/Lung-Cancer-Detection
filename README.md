@@ -1,8 +1,8 @@
 # Lung-Cancer-Detection
-Dataset used is a public dataset
+Dataset used for training and testing the model is a public dataset.<br/>
 Link for dataset is https://www.dropbox.com/s/luhnutk30qyg3zd/LC25000.zip?dl=0 <br/>
-This model is trained to identify from the images whether they contains the cancer tissues or not.
-
+This model is trained to identify from the images whether the images contains the cancer cells or not.
+<br/>
 # There are two versions of the model
   1. A simple CNN model with image augumentation. <br/>
       Training Accuracy : 94% (approx) <br/>
